@@ -53,7 +53,7 @@ Documentation: Purwoko, Arif Syamsudin, Hendro Wicaksono, Rasyid Ridho, Sulfan Z
 <div style="font-weight:bold;">Translator:</div>
 Germany: Tobias Zeumer<br />
 Arabic: Rasyid Ridho<br />
-Thai: Prasitichai เรารักในหลวง<br />
+Thai: Prasitichai 聛2脮2聛2脪3聛2脫8聛2脪3聛2脫7聛2脦9聛2脮5聛2脩3聛2脫1聛2脪5聛2脪7聛2脧5<br />
 Persian: Mohammad Javad Mansourzadeh<br />
 Malay: Jerry Mohd. Arif<br />
 Brazilian Portuguese: <br />
@@ -64,7 +64,7 @@ Bengali: A. K. M. Nurul Alam
 <p>
 <div style="font-weight:bold;">Contribution:</div>
 Gettext support: Tobias Zeumer<br />
-Membercard modification: Jushadi<br />
+Membercard modification: Jushadi Arman Saz<br />
 English documentation: Jim Richardson<br />
 OAI Support for Indonesia One Search: Ismail Fahmi
 </p>
